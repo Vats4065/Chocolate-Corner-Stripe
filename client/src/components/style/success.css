@@ -1,0 +1,11 @@
+.full{
+    background-color:beige;
+    height: 100vh;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+  }

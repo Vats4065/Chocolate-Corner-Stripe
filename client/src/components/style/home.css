@@ -1,0 +1,21 @@
+.home-title {
+  background: rgb(227, 232, 92);
+  background: radial-gradient(circle, rgb(232, 206, 92) 0%, chocolate 35% );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.choc-head{
+    margin-bottom: 80px;
+}
+
+.choc-img img{
+    height: 280px   ;
+    width: 380px;
+}
+
+.choc-item{
+    padding: 30px;
+}
